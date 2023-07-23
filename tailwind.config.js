@@ -18,7 +18,10 @@ module.exports = {
         'normal': '#F5FAFA',
         'header': '#292929',
         'content': '#515151'
-      }
+      },
+      backgroundImage: {
+        "slide1": "url('../assets/slide1.png')"
+      },
     },
    
   },
