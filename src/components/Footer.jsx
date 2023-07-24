@@ -57,8 +57,8 @@ export default function Footer() {
                     </div>
                 </div>
             </div>
-            <hr className='mt-[90px] mb-[17px] border border-[#D4D2E3] ml-[125px]' />
-            <div className={`text-normal mt-[34px] mr-20 ml-[131px] ${dmSans400.className} text-lg leading-[18px] flex flex-col md:flex-row items-center gap-8 justify-between`}>
+            <hr className='mt-[90px] mb-[17px] border border-[#D4D2E3] sm:ml-[125px]' />
+            <div className={`text-normal mt-[34px] mr-20 mx-3 sm:mx-0 sm:ml-[131px] ${dmSans400.className} text-lg leading-[18px] flex flex-col md:flex-row items-center gap-8 justify-between`}>
                 <p>Copyright © 2023 City Pet House & Animal Clinic | All Rights Reserved</p>
                 <div className='flex gap-[15px]'>
                     <Link href={"#"}><Image src={Facebook} alt='facebook' className='w-[33px] h-[35px]' /></Link>

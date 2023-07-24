@@ -1,3 +1,5 @@
+# PROJECT TITLE: PETSTORE FRONTEND (Landing Page)
+
 ## Prerequisites
 
 Please ensure you have the necessary software installed before you can run this project locally:
