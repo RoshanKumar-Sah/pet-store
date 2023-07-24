@@ -2,11 +2,9 @@ import Image from 'next/image'
 import { Nunito } from 'next/font/google'
 import Slider from "react-slick";
 import Slide1 from "@/assets/slide1.png"
-import {IoIosArrowBack, IoIosArrowForward} from "react-icons/io"
-
+import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io"
 
 const nunito = Nunito({ subsets: ['latin'] })
-
 
 export default function Banner() {
 

@@ -2,10 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-.container{
+.container {
   margin-left: auto;
   margin-right: auto;
   padding-left: 0.688rem;
   padding-right: 0.688rem;
   box-sizing: border-box;
+}
+
+:root {
+  scroll-behavior: smooth;
 }
