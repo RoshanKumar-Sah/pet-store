@@ -15,7 +15,7 @@ export default function Header() {
     return (
         <header className='fixed top-0 z-50 bg-white w-full'>
             <div className='bg-primary'>
-                <p className={`text-center py-[19px] ${inter.className} text-base font-bold leading-[14.7px] text-white cursor-default`}>Call us for Veterinary Support: <a href="tel:+9779861859764">+977-9861859764</a></p>
+                <p className={`text-center py-[19px] ${inter.className} text-base font-bold leading-[14.7px] text-white cursor-default`}>Call us for Veterinary Support: <a href="tel:+97798xxxxxxxx">+977-98xxxxxxxx</a></p>
             </div>
             <div className='relative px-3 sm:px-20 flex flex-col sm:flex-row flex-wrap justify-center sm:justify-between items-center pt-[21px] pb-[31px]'>
                 <p className={`w-[90px]  h-9 ${inter.className} text-[15px] font-bold uppercase text-center cursor-default`}><Link href={"/"}>Your Logo Here</Link></p>

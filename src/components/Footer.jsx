@@ -25,8 +25,8 @@ export default function Footer() {
                         <h2 className={`uppercase text-center ${inter.className} text-2xl  font-bold`}><Link href={"/"}>Your Logo Here</Link></h2>
                     </div>
                     <ul className={`text-normal mt-[88px] text-lg leading-[33px]  flex flex-col gap-[39px]`}>
-                        <li className={`${dmSans400.className}`}>Phone Number: <br /><a href="tel:+9779861859764" className={`${dmSans700.className} text-xl leading-5`}>+977-9861859764</a></li>
-                        <li className={`${dmSans400.className}`}>Location: <br /><span className={`${dmSans700.className} text-xl leading-5`}>Tahachal-Kathmandu</span></li>
+                        <li className={`${dmSans400.className}`}>Phone Number: <br /><a href="tel:+98xxxxxxxx" className={`${dmSans700.className} text-xl leading-5`}>+977-98xxxxxxxx</a></li>
+                        <li className={`${dmSans400.className}`}>Location: <br /><span className={`${dmSans700.className} text-xl leading-5`}>Kathmandu</span></li>
                     </ul>
                 </div>
                 <div>
